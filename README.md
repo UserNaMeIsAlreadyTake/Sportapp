@@ -1,2 +1,2 @@
 # Sportapp
-An app that tracks my sportsroutine.
+An app that tracks my sportroutine.
